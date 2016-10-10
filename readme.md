@@ -1,0 +1,3 @@
+### Dev server:
+
+  jekyll serve
