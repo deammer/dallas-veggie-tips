@@ -2,6 +2,9 @@
 title: Dallas Veggie Tips
 timezone: UTC
 collections:
+  places:
+    title: Places
+    output: true
   posts:
     title: Posts
     output: true
